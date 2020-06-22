@@ -1,0 +1,10 @@
+.gapForm {
+    margin: 10px 10px 10px 10px;
+}
+
+.formSummeryError {
+    border: 1px solid red;
+    padding: 5px;
+    color: darkred;
+    text-align: center;
+}

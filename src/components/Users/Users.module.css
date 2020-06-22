@@ -1,0 +1,16 @@
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.wrap {
+    padding: 20px;
+}
+.selectedPage {
+    font-weight: bold;
+    margin-left: 10px;
+}
+.subscriptions {
+    margin-left: 10px;
+}

@@ -1,0 +1,19 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.sunnyDay {
+    width: 1000px;
+    height: 350px;
+}
+
+.contacts {
+    padding-left: 10px;
+}
+
+.formSummeryError {
+    border: 1px solid red;
+    padding: 5px;
+    color: darkred;
+    text-align: center;
+}
